@@ -1,0 +1,14 @@
+{
+	"category" : "Mergery1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MergeryClass1A",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

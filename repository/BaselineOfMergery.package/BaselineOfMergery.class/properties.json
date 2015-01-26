@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMergery",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMergery",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

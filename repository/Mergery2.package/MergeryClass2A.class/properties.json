@@ -1,0 +1,14 @@
+{
+	"category" : "Mergery2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 01/26/2015 07:25",
+	"instvars" : [
+		 ],
+	"name" : "MergeryClass2A",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
