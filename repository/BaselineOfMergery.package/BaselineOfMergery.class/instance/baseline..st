@@ -5,7 +5,8 @@ baseline: spec
     for: #'common'
     do: [ 
       spec
-        package: 'Mergery1' package: 'Mergery2';
+        package: 'Mergery1';
+        package: 'Mergery2';
         yourself.
       spec
         group: 'default' with: #('Core');
