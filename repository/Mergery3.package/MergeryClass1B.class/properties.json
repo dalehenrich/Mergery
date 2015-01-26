@@ -1,5 +1,5 @@
 {
-	"category" : "Mergery1",
+	"category" : "Mergery3",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "dkh 01/26/2015 07:23",
 	"instvars" : [
 		 ],
-	"name" : "MergeryClass1D",
+	"name" : "MergeryClass1B",
 	"pools" : [
 		 ],
 	"super" : "Object",

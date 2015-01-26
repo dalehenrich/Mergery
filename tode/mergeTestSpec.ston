@@ -12,17 +12,17 @@ TDStringLeafNode{#name:'mergeTestSpec',#contents:'operations:
 
 Package Rename
 --------------
-us:
-  rename Package1 to Package3 
-  add Class3E to Package3 (renamed Package1)
-  add Class3F to Package3 (renamed Package1)
-  delete Class1A from Package3 (renamed Package1)
-them:
-  add Class1F to Package1
-  add Class3F to Package1 -- [conflict]
-  delete Class1D from Package1
+us1.0.0:
+  rename Mergery1 to Mergery3 
+  add Class3G to Mergery3 (renamed Mergery1)
+  add Class3H to Mergery3 (renamed Mergery1)
+  delete Class1A from Mergery3 (renamed Mergery1)
+them1.0.0:
+  add Class1G to Mergery1
+  add Class3G to Mergery1 -- [conflict]
+  delete Class1F from Mergery1
 
 Methods
 -------
 us:
-them:',#creationTime:DateAndTime['2015-01-26T07:45:58.6814351081848-08:00'],#modificationTime:DateAndTime['2015-01-26T10:22:28.0127170085907-08:00']}
+them:',#creationTime:DateAndTime['2015-01-26T07:45:58.6814351081848-08:00'],#modificationTime:DateAndTime['2015-01-26T10:30:12.2681748867034-08:00']}

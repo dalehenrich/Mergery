@@ -1,13 +1,13 @@
 {
-	"category" : "Mergery1",
+	"category" : "Mergery3",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "dkh 01/26/2015 07:23",
+	"commentStamp" : "dkh 01/26/2015 07:24",
 	"instvars" : [
 		 ],
-	"name" : "MergeryClass1E",
+	"name" : "MergeryClass1F",
 	"pools" : [
 		 ],
 	"super" : "Object",
