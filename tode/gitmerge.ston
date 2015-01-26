@@ -1,0 +1,44 @@
+TDStringLeafNode{#name:'gitmerge',#contents:'ls-file stages:
+ 1 - common ancestor
+ 2 - us
+ 3 - them
+---
+100644 6850f81780caa6b110f690fb939dfb877d8469d8 1\t.gitignore
+100644 6c5ee8df160a5bd391610c1dcafaca7f083e6ab5 2\t.gitignore
+100644 b3a513367e3f5f39cce5a2c9ebdb7c8a787660ff 3\t.gitignore
+100644 524e2757211fde055d86cce2dd945089fec0d92f 1\trepository/Mapless-Core.package/Mapless.class/instance/doesNotUnderstand..st
+100644 18d3e760061cd7590b40b92bee77619098113d84 2\trepository/Mapless-Core.package/Mapless.class/instance/doesNotUnderstand..st
+100644 f092ecba900e6af6dba3c9866f900ec32b293bde 3\trepository/Mapless-Core.package/Mapless.class/instance/doesNotUnderstand..st
+100644 e4c519cd9bf344fa5fd50f1c4ed5d254b201d990 1\trepository/Mapless-Core.package/MaplessReference.class/instance/initializeOn..st
+100644 0be2009fb1150dc17efa779e3c1f856897f57665 2\trepository/Mapless-Core.package/MaplessReference.class/instance/initializeOn..st
+100644 bec4d0f2acd821b476a43d0ef7166aba796c8583 3\trepository/Mapless-Core.package/MaplessReference.class/instance/initializeOn..st
+100644 7181faf7f49af4b37dd019fdb42e3b7a57ec2712 2\trepository/Mapless-Core.package/MaplessReference.class/instance/oid..st
+100644 39ee23c2bc998ff411cc62edf7ff59d903d416bc 2\trepository/Mapless-Core.package/MaplessReference.class/instance/oid.st
+100644 b5de5968ffb99b709dbdd26bd3a6a9a678bc2ec8 2\trepository/Mapless-Mongo.package/MaplessMongo.class/class/existsAt..st
+100644 6c933b36d1b9f3cf240c69d17060a0cfd603f30b 2\trepository/Mapless-Mongo.package/MaplessMongo.class/class/findAt..st
+100644 9c79f2796980cf7f5ca00af613737adecaed6670 2\trepository/Mapless-Mongo.package/MaplessMongo.class/instance/ensureOID.st
+100644 985cbd2811c9a5358ba09e8007f1f11714531d6c 2\trepository/Mapless-Mongo.package/MaplessMongo.class/instance/hasOID.st
+100644 0b131d995001d1743a455c7a193bf7627123fafb 2\trepository/Mapless-Mongo.package/MaplessMongo.class/instance/oid.st
+100644 f212177aab706d7d475a6fc7c50e16447aa3bfd9 1\trepository/Mapless-Redis.package/MaplessRedis.class/instance/isUnsaved.st
+100644 33ca5b5bcef302edc5c564688926da30dcf66eb9 2\trepository/Mapless-Redis.package/MaplessRedis.class/instance/isUnsaved.st
+100644 ef2233737fd268c9159667366cec1f6790d4a652 3\trepository/Mapless-Redis.package/MaplessRedis.class/instance/isUnsaved.st
+100644 41241a32670abce6e2bf684f46ff9ffe50188ccd 3\tsrc/Mapless.package/MaplessReference.class/instance/id.st
+100644 39ee23c2bc998ff411cc62edf7ff59d903d416bc 1\tsrc/Mapless.package/MaplessReference.class/instance/oid.st
+100644 78cef4171a08afe2387e632b2d2c20107cf4c0a5 1\tsrc/Mapless.package/monticello.meta/version
+100644 35567b4ab5682f11c3f5f07871bc864b0612d509 3\tsrc/Mapless.package/monticello.meta/version
+---
+#\tboth modified:      .gitignore
+#\tboth modified:      repository/Mapless-Core.package/Mapless.class/instance/doesNotUnderstand..st
+#\tboth modified:      repository/Mapless-Core.package/MaplessReference.class/instance/initializeOn..st
+#\tadded by us:        repository/Mapless-Core.package/MaplessReference.class/instance/oid..st
+#\tadded by us:        repository/Mapless-Core.package/MaplessReference.class/instance/oid.st
+#\tadded by us:        repository/Mapless-Mongo.package/MaplessMongo.class/class/existsAt..st
+#\tadded by us:        repository/Mapless-Mongo.package/MaplessMongo.class/class/findAt..st
+#\tadded by us:        repository/Mapless-Mongo.package/MaplessMongo.class/instance/ensureOID.st
+#\tadded by us:        repository/Mapless-Mongo.package/MaplessMongo.class/instance/hasOID.st
+#\tadded by us:        repository/Mapless-Mongo.package/MaplessMongo.class/instance/oid.st
+#\tboth modified:      repository/Mapless-Redis.package/MaplessRedis.class/instance/isUnsaved.st
+#\tadded by them:      src/Mapless.package/MaplessReference.class/instance/id.st
+#\tboth deleted:       src/Mapless.package/MaplessReference.class/instance/oid.st
+#\tdeleted by us:      src/Mapless.package/monticello.meta/version
+',#creationTime:DateAndTime['2015-01-26T07:46:46.9784500598907-08:00'],#modificationTime:DateAndTime['2015-01-26T07:46:55.3056108951568-08:00']}

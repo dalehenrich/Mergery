@@ -1,0 +1,52 @@
+TDStringLeafNode{#name:'mergeTestSpec',#contents:'operations:
+  added by them
+  added by us
+  both added
+  both deleted    1
+  deleted by them 2
+  deleted by us   3
+  both modified   4
+  added
+  deleted         5
+  modified        6
+us:
+  rename Package1 to Package3 
+  add Class3E to Package3 (renamed Package1)
+  add Class3F to Package3 (renamed Package1)
+  delete Class1A from Package3 (renamed Package1)
+them:
+  add Class1F to Package1
+  add Class3F to Package1 -- [conflict]
+  delete Class1D from Package1
+
+
+1. ancestor
+ - Package1
+   - Class1A
+     - classv1
+     - classiv1
+     - classMethod1
+     - iv1
+     - instanceMethod1
+   - Class1B
+     - classv1
+     - classiv1
+     - classMethod1
+     - iv1
+     - instanceMethod1
+   - Class1C
+     - classv1
+     - classiv1
+     - classMethod1
+     - iv1
+     - instanceMethod1
+   - Class1D
+     - classv1
+     - classiv1
+     - classMethod1
+     - iv1
+     - instanceMethod1
+ - Package2
+2. them
+3. us
+',#creationTime:DateAndTime['2015-01-26T07:45:58.6814351081848-08:00'],#modificationTime:DateAndTime['2015-01-26T07:46:10.7486090660095-08:00']}
