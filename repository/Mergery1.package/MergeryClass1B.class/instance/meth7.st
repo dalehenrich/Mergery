@@ -1,8 +1,10 @@
 accessing
-meth1
-  "both deleted"
+meth7
+  "modified"
 
   "a comment"
+
+  "from them1.0.1"
 
   | a b c |
   a := 1.
